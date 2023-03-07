@@ -1,0 +1,133 @@
+x 6
+y 6
+t 13
+c -5 1 0 1
+o Z 0 1 2 1 13
+o J 5 0 99 0 6
+o J 4 0 99 0 5
+o J 5 1 99 0 10
+o J 4 1 99 0 3
+o G 1 1 0 0 3
+o J 5 2 99 0 13
+o B 3 2 10 0 6
+o J 4 2 99 0 5
+o G 1 2 0 0 4
+o G 0 2 0 0 4
+o G 2 2 0 0 1
+o C 3 0 5 4 13
+o J 5 3 99 0 7
+o G 1 3 0 0 7
+o B 3 3 10 0 7
+o B 4 3 10 0 6
+o G 0 3 0 0 5
+o G 2 3 0 0 1
+o G 1 4 0 0 13
+o B 3 4 10 0 12
+o B 4 4 10 0 8
+o G 0 4 0 0 6
+o G 2 4 0 0 5
+o J 5 4 99 0 5
+o T 1 5 0 0 13
+o B 3 5 10 0 13
+o T 0 5 0 0 13
+o T 2 5 0 0 11
+o B 4 5 10 0 10
+o J 5 5 99 0 4
+p Z: y: 1 x: 0
+p J: y: 0 x: 5
+p J: y: 0 x: 4
+p J: y: 1 x: 5
+p J: y: 1 x: 4
+p G: y: 1 x: 1
+p J: y: 2 x: 5
+p B: y: 2 x: 3
+p J: y: 2 x: 4
+p G: y: 2 x: 1
+p G: y: 2 x: 0
+p G: y: 2 x: 2
+p C: y: 0 x: 3
+p J: y: 3 x: 5
+p G: y: 3 x: 1
+p B: y: 3 x: 3
+p B: y: 3 x: 4
+p G: y: 3 x: 0
+p G: y: 3 x: 2
+p G: y: 4 x: 1
+p B: y: 4 x: 3
+p B: y: 4 x: 4
+p G: y: 4 x: 0
+p G: y: 4 x: 2
+p J: y: 4 x: 5
+p T: y: 5 x: 1
+p B: y: 5 x: 3
+p T: y: 5 x: 0
+p T: y: 5 x: 2
+p B: y: 5 x: 4
+p J: y: 5 x: 5
+¯ó³w bêd¹cy na polu y: 1 x: 0 nie wykona³ ruchu!
+Roœlina J bêd¹ca na polu y: 2 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 4 x: 1 nigdzie siê nie rozprzestrzeni³a 
+Roœlina T bêd¹ca na polu y: 5 x: 1 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 5 x: 3 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 5 x: 3 nigdzie siê nie rozprzestrzeni³a 
+Roœlina T bêd¹ca na polu y: 5 x: 0 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 4 x: 3 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 4 x: 3 nigdzie siê nie rozprzestrzeni³a 
+Roœlina T bêd¹ca na polu y: 5 x: 2 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 1 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 5 x: 4 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 5 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 4 x: 4 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 4 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 3 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 3 x: 1 rozprzestrzeni³a siê na pole y: 3 x: 2
+Organizm B bêd¹cy na polu y: 3 x: 3 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 3 x: 3 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 0 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 2 x: 3 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 2 x: 3 nigdzie siê nie rozprzestrzeni³a 
+Organizm B bêd¹cy na polu y: 3 x: 4 zabi³ wokól siebie 0 zwierz¹t:
+Roœlina B bêd¹ca na polu y: 3 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 4 x: 0 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 0 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 2 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 3 x: 0 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 4 x: 2 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 4 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 2 x: 1 rozprzestrzeni³a siê na pole y: 2 x: 2
+Roœlina G bêd¹ca na polu y: 2 x: 0 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 5 x: 5 nigdzie siê nie rozprzestrzeni³a 
+Roœlina J bêd¹ca na polu y: 1 x: 4 nigdzie siê nie rozprzestrzeni³a 
+Roœlina G bêd¹ca na polu y: 1 x: 1 nigdzie siê nie rozprzestrzeni³a 
+
+
+Kolejnosc wykonania ruchow (wiek podczas wykonywania ruchu): 
+1. Organizm C z pola y: 0 x: 3 inicjatywa: 4 wiek: 12
+2. Organizm Z z pola y: 1 x: 0 inicjatywa: 1 wiek: 12
+3. Organizm J z pola y: 2 x: 5 inicjatywa: 0 wiek: 12
+4. Organizm G z pola y: 4 x: 1 inicjatywa: 0 wiek: 12
+5. Organizm T z pola y: 5 x: 1 inicjatywa: 0 wiek: 12
+6. Organizm B z pola y: 5 x: 3 inicjatywa: 0 wiek: 12
+7. Organizm T z pola y: 5 x: 0 inicjatywa: 0 wiek: 12
+8. Organizm B z pola y: 4 x: 3 inicjatywa: 0 wiek: 11
+9. Organizm T z pola y: 5 x: 2 inicjatywa: 0 wiek: 10
+10. Organizm J z pola y: 1 x: 5 inicjatywa: 0 wiek: 9
+11. Organizm B z pola y: 5 x: 4 inicjatywa: 0 wiek: 9
+12. Organizm B z pola y: 4 x: 4 inicjatywa: 0 wiek: 7
+13. Organizm J z pola y: 3 x: 5 inicjatywa: 0 wiek: 6
+14. Organizm G z pola y: 3 x: 1 inicjatywa: 0 wiek: 6
+15. Organizm B z pola y: 3 x: 3 inicjatywa: 0 wiek: 6
+16. Organizm J z pola y: 0 x: 5 inicjatywa: 0 wiek: 5
+17. Organizm B z pola y: 2 x: 3 inicjatywa: 0 wiek: 5
+18. Organizm B z pola y: 3 x: 4 inicjatywa: 0 wiek: 5
+19. Organizm G z pola y: 4 x: 0 inicjatywa: 0 wiek: 5
+20. Organizm J z pola y: 0 x: 4 inicjatywa: 0 wiek: 4
+21. Organizm J z pola y: 2 x: 4 inicjatywa: 0 wiek: 4
+22. Organizm G z pola y: 3 x: 0 inicjatywa: 0 wiek: 4
+23. Organizm G z pola y: 4 x: 2 inicjatywa: 0 wiek: 4
+24. Organizm J z pola y: 4 x: 5 inicjatywa: 0 wiek: 4
+25. Organizm G z pola y: 2 x: 1 inicjatywa: 0 wiek: 3
+26. Organizm G z pola y: 2 x: 0 inicjatywa: 0 wiek: 3
+27. Organizm J z pola y: 5 x: 5 inicjatywa: 0 wiek: 3
+28. Organizm J z pola y: 1 x: 4 inicjatywa: 0 wiek: 2
+29. Organizm G z pola y: 1 x: 1 inicjatywa: 0 wiek: 2
