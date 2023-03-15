@@ -32,9 +32,9 @@ All plants have initiative = 0.
 Whenever a new turn is started some organisms move randomly (animals), some don't move (plants), in case of collision a stronger organism wins by killing a weaker one or driving it away from tile. Order of moves depends on initiative (in case of same initiative life-time is considered). In case of equal strength, the organism which attacked first wins. Human is an exception in terms of movement - direction of movement has to be chosen before the turn (up, down, left, right). Also animals can eat plants.
 
 <h3>Additionaly there are features:</h3>
-- New organisms can be added to board by simply clicking the square (the one with color and letter in right down corner), selecting the organism and clicking on tile on board.
-- World can be saved into a text file and loaded
-- Event Log with paging containing detailed information of what happened during the turn.
+- New organisms can be added to board by simply clicking the square (the one with color and letter in right down corner), selecting the organism and clicking on tile on board.<br/>
+- World can be saved into a text file and loaded.<br/>
+- Event Log with paging containing detailed information of what happened during the turn.<br/>
 
 <h3>More detailed description of organisms:</h3>
 Fox - will never move to a tile occupied by an organism with higher strength than his.<br/>
