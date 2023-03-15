@@ -27,11 +27,25 @@ Gray(G) - Guarana - Strength: 0<br/>
 Cyan(O) - Sheep - Strength: 4, Initiative: 4<br/>
 Light Gray(o) - Cybersheep - Strength: 11, Initiative: 4<br/>
 
+All plants have initiative = 0.
+
 Whenever a new turn is started some organisms move randomly (animals), some don't move (plants), in case of collision a stronger organism wins by killing a weaker one or driving it away from tile. Order of moves depends on initiative (in case of same initiative life-time is considered). In case of equal strength, the organism which attacked first wins. Human is an exception in terms of movement - direction of movement has to be chosen before the turn (up, down, left, right). Also animals can eat plants.
 
 Additionaly there are features:
 - New organisms can be added to board by simply clicking the square (the one with color and letter in right down corner), selecting the organism and clicking on tile on board.
 - World can be saved into a text file and loaded
 - Event Log with paging containing detailed information of what happened during the turn.
+
+More detailed description of organisms:
+Fox - will never move to a tile occupied by an organism with higher strength than his.
+Turtle - In 75% of cases doesn't change it's position (doesn't move), Repels attacks from organisms with strength lower than 5, whoever attacked must return to it's previous tile.
+Antilope - Move range is 2 tiles. Has 50% chance to run away from battle, in that case it moves to another not occupied tile.
+Cybersheep - It's goal is to eat Borscht. If there is Borscht it moves to it's direction, if there is not it acts as a normal sheep.
+Dandelion - Makes three attempts to spread in one turn.
+Guarana - Increases strength of animal that ate this by 3.
+Berries - Animal that ate this dies.
+Borscht - Kills all animals next to it, except Cybersheep. If animal eats this, then that animal dies.
+
+
 
 
