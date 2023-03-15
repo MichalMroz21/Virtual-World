@@ -36,15 +36,15 @@ Additionaly there are features:
 - World can be saved into a text file and loaded
 - Event Log with paging containing detailed information of what happened during the turn.
 
-More detailed description of organisms:
-Fox - will never move to a tile occupied by an organism with higher strength than his.
-Turtle - In 75% of cases doesn't change it's position (doesn't move), Repels attacks from organisms with strength lower than 5, whoever attacked must return to it's previous tile.
-Antilope - Move range is 2 tiles. Has 50% chance to run away from battle, in that case it moves to another not occupied tile.
-Cybersheep - It's goal is to eat Borscht. If there is Borscht it moves to it's direction, if there is not it acts as a normal sheep.
-Dandelion - Makes three attempts to spread in one turn.
-Guarana - Increases strength of animal that ate this by 3.
-Berries - Animal that ate this dies.
-Borscht - Kills all animals next to it, except Cybersheep. If animal eats this, then that animal dies.
+More detailed description of organisms:<br/>
+Fox - will never move to a tile occupied by an organism with higher strength than his.<br/>
+Turtle - In 75% of cases doesn't change it's position (doesn't move), Repels attacks from organisms with strength lower than 5, whoever attacked must return to it's previous tile.<br/>
+Antilope - Move range is 2 tiles. Has 50% chance to run away from battle, in that case it moves to another not occupied tile.<br/>
+Cybersheep - It's goal is to eat Borscht. If there is Borscht it moves to it's direction, if there is not it acts as a normal sheep.<br/>
+Dandelion - Makes three attempts to spread in one turn.<br/>
+Guarana - Increases strength of animal that ate this by 3.<br/>
+Berries - Animal that ate this dies.<br/>
+Borscht - Kills all animals next to it, except Cybersheep. If animal eats this, then that animal dies.<br/>
 
 
 
