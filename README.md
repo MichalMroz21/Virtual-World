@@ -13,7 +13,7 @@ It is a virtual world turn based simulation, where different organisms - (plants
 ![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225218474-531161fa-63bf-41ba-8bac-f038261d48c5.PNG)
 
 
-<h3>Each tile has assigned a color which denotes what organism is currently on it. Detailed description of each organism is below.</h3> <br/>
+<h4>Each tile has assigned a color which denotes what organism is currently on it. Detailed description of each organism is below.</h3> <br/>
 Red(B) - Borscht - Strength: 10 <br/>
 Orange(A) - Antelope - Strength: 4, Initiative: 4 <br/>
 Violet(J) - Berries - Strength: 99 <br/>
