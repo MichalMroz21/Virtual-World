@@ -31,7 +31,7 @@ Whenever a new turn is started some organisms move randomly (animals), some don'
 
 Additionaly there are features:
 - New organisms can be added to board by simply clicking the square (the one with color and letter in right down corner), selecting the organism and clicking on tile on board.
-- Game can be saved into a text file and loaded
+- World can be saved into a text file and loaded
 - Event Log with paging containing detailed information of what happened during the turn.
 
 
