@@ -46,6 +46,8 @@ Guarana - Increases strength of animal that ate this by 3.<br/>
 Berries - Animal that ate this dies.<br/>
 Borscht - Kills all animals next to it, except Cybersheep. If animal eats this, then that animal dies.<br/>
 
+Human has a special ability - shield. When activated it repels animals that move to human's tile. It lasts for 5 turns.
+
 
 
 
