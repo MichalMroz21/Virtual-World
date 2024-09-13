@@ -1,17 +1,20 @@
-<h2>Virtual World</h2>
+![python]()# Virtual World
 
 Project written with Python using Pygame and Object Oriented Programming concepts.
 
-![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225217787-9397eb83-104d-4e76-b908-fc3827af0ae0.PNG)
+## Technologies
+
+<img src="https://github.com/user-attachments/assets/4c3e8037-a888-4564-ae68-1dbc9ddef725" alt="drawing" width="75"/>
+
+## Demo
 
 It is a virtual world turn based simulation, where different organisms - (plants, animals and human) live together, kill each other and spread (for plants) or breed (for animals).
 
+![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225217787-9397eb83-104d-4e76-b908-fc3827af0ae0.PNG)
 
-
-<h3>When starting the app allows user to specify board size and whether it consists of square tiles or hex.</h3>
+When starting the app allows user to specify board size and whether it consists of square tiles or hex
 
 ![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225218474-531161fa-63bf-41ba-8bac-f038261d48c5.PNG)
-
 
 <h4>Each tile has assigned a color which denotes what organism is currently on it. Detailed description of each organism is below.</h3>
 Red(B) - Borscht - Strength: 10 <br/>
