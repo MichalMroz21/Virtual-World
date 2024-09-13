@@ -1,4 +1,4 @@
-![python]()# Virtual World
+# Virtual World
 
 Project written with Python using Pygame and Object Oriented Programming concepts.
 
