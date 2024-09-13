@@ -1,0 +1,111 @@
+﻿  Organizm.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,26): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,35): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,35): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(28,34): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,37): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,128): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2439: „Swiat::organizmy”: Nie można zainicjować składowej
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14): message : zobacz deklarację „Swiat::organizmy”
+  POprojekt1.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(7,14): error C2433: "Swiat": "friend" nie jest dozwolone w deklaracjach danych
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(7,14): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,7): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,7): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,14): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(17,11): error C2061: błąd składniowy: identyfikator „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(19,10): error C2535: „Organizm::Organizm(void)”: Funkcja składowa już zdefiniowana lub zadeklarowana
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(17): message : zobacz deklarację „Organizm::Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(10,7): error C2061: błąd składniowy: identyfikator „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(10,6): error C2535: „Wilk::Wilk(void)”: Funkcja składowa już zdefiniowana lub zadeklarowana
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(9): message : zobacz deklarację „Wilk::Wilk”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(11,7): error C2061: błąd składniowy: identyfikator „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(11,6): error C2535: „Wilk::Wilk(void)”: Funkcja składowa już zdefiniowana lub zadeklarowana
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.h(9): message : zobacz deklarację „Wilk::Wilk”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,9): error C2065: "swiat": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,21): error C2061: błąd składniowy: identyfikator „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,27): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,33): error C2143: błąd składniowy: brakuje „;” przed „}”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,34): error C2059: błąd składniowy: „,”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,86): error C2059: błąd składniowy: „,”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(33,106): error C2059: błąd składniowy: „)”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,2): error C2059: błąd składniowy: „for”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,29): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,29): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,35): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,35): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,34): error C2086: "int i": zmiana definicji
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36): message : zobacz deklarację „i”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,37): error C2059: błąd składniowy: „)”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,39): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(36,39): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(45,7): error C3927: „->”: nie można używać końcowego typu zwracanego po deklaratorze niebędącym funkcją
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(45,9): error C3613: brak typu zwracanego po „->” (przyjęto typ „int”)
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(45,19): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(45,9): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „rysujSwiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(47,1): error C2059: błąd składniowy: „}”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\POprojekt1.cpp(47,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+  Roslina.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,26): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,35): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,35): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(28,34): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,37): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,128): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2439: „Swiat::organizmy”: Nie można zainicjować składowej
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14): message : zobacz deklarację „Swiat::organizmy”
+  Swiat.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(7,14): error C2433: "Swiat": "friend" nie jest dozwolone w deklaracjach danych
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(7,14): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,7): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,7): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(15,14): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(17,11): error C2061: błąd składniowy: identyfikator „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(19,10): error C2535: „Organizm::Organizm(void)”: Funkcja składowa już zdefiniowana lub zadeklarowana
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Organizm.h(17): message : zobacz deklarację „Organizm::Organizm”
+  Wilk.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,26): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,35): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,35): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(28,34): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,37): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,128): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2439: „Swiat::organizmy”: Nie można zainicjować składowej
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14): message : zobacz deklarację „Swiat::organizmy”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.cpp(19,49): error C2660: "Swiat::ustawOrganizm": funkcja nie przyjmuje 3 argumentów
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,7): message : zobacz deklarację „Swiat::ustawOrganizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Wilk.cpp(31,49): error C2660: "Swiat::ustawOrganizm": funkcja nie przyjmuje 3 argumentów
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,7): message : zobacz deklarację „Swiat::ustawOrganizm”
+  Zwierze.cpp
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,26): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14,35): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,35): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(28,34): error C2061: błąd składniowy: identyfikator „Organizm”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C2143: błąd składniowy: brakuje „;” przed „*”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,10): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(30,37): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,128): error C2065: "Organizm": niezadeklarowany identyfikator
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2059: błąd składniowy: „>”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(40,7): error C2439: „Swiat::organizmy”: Nie można zainicjować składowej
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(14): message : zobacz deklarację „Swiat::organizmy”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Zwierze.cpp(18,23): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Zwierze.cpp(26,23): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Zwierze.cpp(65,63): error C2039: „getOrganizm”: nie jest składową elementu „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(6): message : zobacz deklarację „Swiat”
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Zwierze.cpp(66,59): error C2660: "Swiat::ustawOrganizm": funkcja nie przyjmuje 3 argumentów
+C:\Users\disen\source\repos\POprojekt1\POprojekt1\Swiat.h(26,7): message : zobacz deklarację „Swiat::ustawOrganizm”
+  Generowanie kodu...
