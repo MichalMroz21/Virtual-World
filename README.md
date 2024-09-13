@@ -1,9 +1,12 @@
 # Virtual World
 
-Project written with Python using Pygame and Object Oriented Programming concepts.
+Desktop Application of Virtual World Simulation in 3 different versions - Python, Java and C++.
+Each version improves and expands on what was written previously, in this order C++ -> Java -> Python
 
 ## Technologies
 
+<img src="https://github.com/user-attachments/assets/23da0c8e-c353-464a-b8f3-13ca77abad9d" alt="drawing" width="75"/>
+<img src="https://github.com/user-attachments/assets/77a1189f-d290-47f5-8672-6db4406c109f" alt="drawing" width="75"/>
 <img src="https://github.com/user-attachments/assets/4c3e8037-a888-4564-ae68-1dbc9ddef725" alt="drawing" width="75"/>
 <img src="https://github.com/user-attachments/assets/cd65f45b-4869-4cd7-8ee3-fdb3a75e5dfe" alt="drawing" width="75"/>
 
