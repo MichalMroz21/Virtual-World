@@ -1,4 +1,3 @@
-<h3>This project has been significantly improved in terms of features and looks in Python under the name "OOP-Project-3"</h3>
 <h2>Virtual World</h2>
 
 Project written with Java using Swing and Object Oriented Programming concepts.
