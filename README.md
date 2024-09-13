@@ -1,6 +1,6 @@
 # Virtual World
 
-Desktop Application of Virtual World Simulation in 3 different versions - Python, Java and C++.
+Desktop Application of Virtual World Simulation in 3 different versions - Python, Java and C++.\
 Each version improves and expands on what was written previously, in this order C++ -> Java -> Python
 
 ## Technologies
