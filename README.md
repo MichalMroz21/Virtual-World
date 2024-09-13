@@ -5,6 +5,7 @@ Project written with Python using Pygame and Object Oriented Programming concept
 ## Technologies
 
 <img src="https://github.com/user-attachments/assets/4c3e8037-a888-4564-ae68-1dbc9ddef725" alt="drawing" width="75"/>
+<img src="https://github.com/user-attachments/assets/cd65f45b-4869-4cd7-8ee3-fdb3a75e5dfe" alt="drawing" width="75"/>
 
 ## Demo
 
@@ -16,7 +17,7 @@ When starting the app allows user to specify board size and whether it consists 
 
 ![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225218474-531161fa-63bf-41ba-8bac-f038261d48c5.PNG)
 
-<h4>Each tile has assigned a color which denotes what organism is currently on it. Detailed description of each organism is below.</h3>
+<h3>Each tile has assigned a color which denotes what organism is currently on it. Detailed description of each organism is below.</h3>
 Red(B) - Borscht - Strength: 10 <br/>
 Orange(A) - Antelope - Strength: 4, Initiative: 4 <br/>
 Violet(J) - Berries - Strength: 99 <br/>
